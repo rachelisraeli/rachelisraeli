@@ -60,4 +60,5 @@ With expertise in both frontend and backend technologies, I love exploring innov
 
 ## 🌍 Let's Connect  
 - Feel free to explore my repositories and see some of the projects I've worked on!  
-- Looking for collaboration opportunities or have a cool idea? Let’s chat!  
+- You can contact me [Rachel](mailto:r0504172638@gmail.com)
+ 
