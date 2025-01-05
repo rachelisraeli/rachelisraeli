@@ -4,6 +4,7 @@ I'm a **Software Developer** specializing in **full-stack development** and **mo
 
 With expertise in both frontend and backend technologies, I love exploring innovative solutions and mastering advanced tools and frameworks.
 
+
 ## 🌟 About Me 
 
 💻 Full Stack Developer
@@ -11,6 +12,9 @@ With expertise in both frontend and backend technologies, I love exploring innov
 📱 Web and Mobile Website and Application Development
 
 ⚙️ Developing server-side endpoints for seamless API integration
+
+👥 Part of the development team for an application build with React Native, Node.js, and Strapi
+
 
 ## Technologies & Tools 🔧  
 
@@ -24,13 +28,14 @@ With expertise in both frontend and backend technologies, I love exploring innov
 </p>
 
 ### Backend  
-- Node.js, Java, C#, .NET Core, .NET 8, Python, C, C++
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </p>
 
 ### Databases  
@@ -51,8 +56,6 @@ With expertise in both frontend and backend technologies, I love exploring innov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
-
-## Career Objective 🎯
 
 
 ## 🌍 Let's Connect  
