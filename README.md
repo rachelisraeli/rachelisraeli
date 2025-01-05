@@ -5,7 +5,7 @@ I'm a **Software Developer** specializing in **full-stack development** and **mo
 With expertise in both frontend and backend technologies, I love exploring innovative solutions and mastering advanced tools and frameworks.
 
 
-## 🌟 About Me 
+## About Me 🌟 
 
 💻 Full Stack Developer
 
@@ -16,7 +16,7 @@ With expertise in both frontend and backend technologies, I love exploring innov
 👥 Part of the development team for an application build with React Native, Node.js, and Strapi
 
 
-## Technologies & Tools 🔧  
+## Technologies & Tools 🛠️  
 
 ### Frontend  
  <p>
