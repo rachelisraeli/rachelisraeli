@@ -1,4 +1,4 @@
-## 👩‍💻 Hi, I'm Rachel Israeli 👋
+# 👩‍💻 Hi, I'm Rachel Israeli 👋
 
 I'm a **Software Developer** specializing in **full-stack development** and **mobile app creation**.
 
@@ -46,7 +46,7 @@ With expertise in both frontend and backend technologies, I love exploring innov
 
 ### Cloud & DevOps  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
