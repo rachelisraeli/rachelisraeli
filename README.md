@@ -62,3 +62,4 @@ With expertise in both frontend and backend technologies, I love exploring innov
 - Feel free to explore my repositories and see some of the projects I've worked on!  
 - You can contact me [Rachel](mailto:r0504172638@gmail.com)
  
+![](https://komarev.com/ghpvc/?rachelisraeli&color=yellow)
